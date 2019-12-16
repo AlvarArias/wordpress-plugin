@@ -4,7 +4,7 @@ Integration plugin for Wordpress , the objective of this puling is connect two p
 ![My_pugin](user_3.png)
 
 ### Featured
-============
+
 * Community admin can enable/disable activity sync from listings.
 * Every post includes a featured photo, Title, Autor, description of the listing.
 * Confirmation of every post created.
