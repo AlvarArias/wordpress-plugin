@@ -1,22 +1,20 @@
 # wordpress-plugin
-wordpress plugin for integrate My-Listing and Peepso
+integration plugin for Wordpress , the objective of this puling is connect two plugins My-Listing and Peepso and make more strong the Waterspot community. 
 
-Getting Started With Git and GitHub
-===================================
+Peepso
+======
+Peepso a social community plugin, it permits create and manage one or more communities in your webpage,  is very similar to Facebook ,  you have friends , you can publish posts and have an “activity” page where you can see posts and photos or videos who are posted for all the members of the community, hare I need to create one post every time one post was approved , integrating both plugins . [Peepso](https://peepso.com). 
 
-Explaining Git and GitHub. Forked from [Jaime Kosoy](https://github.com/jkosoy). The following commands below are to be run in the Terminal.App for Mac OSX or Linux. For a good overview on how to use the Terminal see [this tutorial](http://cli.learncodethehardway.org/book/). There is also a [desktop application](desktop application) for GitHub if you'd prefer to not use the Terminal.App.
-
-## Some links for more in depth learning
-### Hands on / interactive learning
-* [Learn Version Control with Git](https://www.git-tower.com/learn/ebook) A website for learning Git. Appears to cost money but has a free html book.
-* [Git Immersion](http://gitimmersion.com/lab_01.html) A website with tutorial materials you download and follow along with.
-* [Try Git](http://try.github.io/levels/1/challenges/1) A 15 minute interactive tutorial to learn the basics. 
-* [Git-it](http://nodeschool.io/#git-it) Interactive software you run from the Terminal (requires installing node.js and nmp).
-
-### Purely text based resources
-* [Git: No Deep Sh*t](http://rogerdudler.github.io/git-guide/) A super simplified way of explaining git, basically a cheatsheet.
-* [The Git Book](http://git-scm.com/book) Explains everything that's possible with git in lots and lots of detail.
+# wordpress-plugin
+### Featured
+* Community admin can enable/disable activity sync from listings.
+* Every post includes a featured photo, Title, Autor, description of the listing.
+* Confirmation of every post created.
 
 
-The Git Flow
-==================
+
+### More information
+* [Plugin Web Page](https://blog.alvararias.se/docs/peepso-my-listing/) All the information about the plugin.
+* [Plugin Documentation Web Page](https://blog.alvararias.se/docs/peepso-my-listing/documentation/g/) Documentation and requeriments for the information about the plugin.
+
+
